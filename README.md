@@ -12,4 +12,4 @@ Create a user-friendly movie preference input UI and apply collaborative filteri
 
 Technologies:-
 Python, Streamlit or Django for UI, collaborative filtering algorithms.
- You can use other technologies that you know
+
